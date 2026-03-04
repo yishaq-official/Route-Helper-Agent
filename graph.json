@@ -1,0 +1,20 @@
+{
+  "Addis Ababa": {
+    "Debre Birhan": 130,
+    "Adama": 100
+  },
+  "Debre Birhan": {
+    "Addis Ababa": 130,
+    "Dessie": 280
+  },
+  "Adama": {
+    "Addis Ababa": 100,
+    "Hawassa": 270
+  },
+  "Dessie": {
+    "Debre Birhan": 280
+  },
+  "Hawassa": {
+    "Adama": 270
+  }
+}
