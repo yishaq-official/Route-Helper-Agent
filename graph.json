@@ -1,7 +1,9 @@
 {
   "Addis Ababa": {
     "Debre Birhan": 130,
-    "Adama": 100
+    "Adama": 100,
+    "Jimma": 350,
+    "Bahir Dar": 510
   },
   "Debre Birhan": {
     "Addis Ababa": 130,
@@ -9,12 +11,40 @@
   },
   "Adama": {
     "Addis Ababa": 100,
-    "Hawassa": 270
-  },
-  "Dessie": {
-    "Debre Birhan": 280
+    "Hawassa": 270,
+    "Dire Dawa": 450
   },
   "Hawassa": {
-    "Adama": 270
+    "Adama": 270,
+    "Jimma": 330
+  },
+  "Dessie": {
+    "Debre Birhan": 280,
+    "Mekelle": 480,
+    "Gondar": 420
+  },
+  "Bahir Dar": {
+    "Addis Ababa": 510,
+    "Gondar": 180
+  },
+  "Gondar": {
+    "Bahir Dar": 180,
+    "Dessie": 420,
+    "Mekelle": 300
+  },
+  "Mekelle": {
+    "Dessie": 480,
+    "Gondar": 300
+  },
+  "Jimma": {
+    "Addis Ababa": 350,
+    "Hawassa": 330
+  },
+  "Dire Dawa": {
+    "Adama": 450,
+    "Harar": 55
+  },
+  "Harar": {
+    "Dire Dawa": 55
   }
 }
